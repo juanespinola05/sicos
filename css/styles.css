@@ -1,0 +1,78 @@
+* {
+  
+}
+
+.black-ops-one {
+  font-family: 'Black Ops One', Arial, Helvetica, sans-serif;
+}
+
+body {
+  font-family: 'Montserrat';
+  text-align: center;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.header {
+  height: 70px;
+  padding: 0 30px;
+  background-color: #000;
+}
+
+.logo-text {
+  font-size: 3em;
+}
+
+.banner {
+  height: 500px;
+  background-image: url('../images/banner.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0 50%;
+}
+
+.banner-title {
+  font-size: 3em;
+}
+
+.banner-text {
+  
+}
+
+.banner-button {
+
+}
+
+.nav-container {
+  
+}
+
+.nav-item a {
+  
+}
+
+.numbers {
+  background-color: #006970;
+}
+
+.numbers-container {
+  
+}
+
+.number-item {
+  width: 150px;
+  height: 150px;
+  padding: 10px;
+}
+
+.footer {
+  height: 200px;
+  background-color: #03494e;
+}
